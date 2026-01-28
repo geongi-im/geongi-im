@@ -1,6 +1,6 @@
 # 👋 안녕하세요, 임건기 입니다.
 
-### 🚀 Business-Driven Backend & AI Engineer
+### Business-Driven Backend & AI Engineer
 "기술을 위한 기술이 아닌, 비즈니스 문제를 해결하고 성과를 만드는 엔지니어링을 지향합니다."
 
 ---
@@ -25,7 +25,7 @@
 
 <br/>
 
-### 🏆 Key Projects
+### Key Projects
 
 #### 한화생명 AI 영업교육 시스템 (AISTS) API 개발
 > **Role:** Backend Lead (Python, FastAPI)
