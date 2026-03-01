@@ -39,7 +39,7 @@
 
 #### AI 기반 비대면 면접 분석 솔루션 고도화
 > **Role:** AI/Backend Core Developer
-- **성과:** 분석 파이프라인 최적화를 통해 건당 분석 시간을 **1시간 → 10분(83% 단축)**으로 개선
+- **성과:** 분석 파이프라인 최적화를 통해 건당 분석 시간을 **1시간 → 10분(83% 단축)** 으로 개선
 - **기술:** `TensorFlow/Keras` `MediaPipe` `Parselmouth` `Python`
 
 <br/>
